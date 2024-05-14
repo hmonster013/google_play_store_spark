@@ -1,4 +1,4 @@
--- Google Play Store
+-- Google Play Store Requirement
 
 1. Find out top 10 reviews given to the apps
 2. Top 10 installs apps and distribution of type (free/paid)
